@@ -53,7 +53,7 @@ Config.GangMenus = {
         vector3(0,0, 0),
     },
     ['vagos'] = {
-        vector3(0, 0, 0),
+        vector3(1391.95, 1159.32, 114.33),
     },
     ['cartel'] = {
         vector3(0, 0, 0),
